@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "procon", "procon\procon.vcxproj", "{DFB038C0-7508-4047-8B31-6E547E118C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Debug|x64.ActiveCfg = Debug|x64
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Debug|x64.Build.0 = Debug|x64
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Debug|x86.Build.0 = Debug|Win32
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Release|x64.ActiveCfg = Release|x64
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Release|x64.Build.0 = Release|x64
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Release|x86.ActiveCfg = Release|Win32
+		{DFB038C0-7508-4047-8B31-6E547E118C95}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DB585A-0A16-4D35-A977-CECE02AB7CFE}
+	EndGlobalSection
+EndGlobal
